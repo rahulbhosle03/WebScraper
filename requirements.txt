@@ -1,0 +1,5 @@
+
+pyppeteer
+requests
+beautifulsoup4
+Scrapy==1.4.0
